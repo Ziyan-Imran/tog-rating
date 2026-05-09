@@ -1,15 +1,14 @@
 {
   "domain": "tog_rating",
   "name": "TOG Rating",
-  "version": "0.1.2",
+  "codeowners": ["@Anton2079"],
+  "config_flow": true,
   "documentation": "https://github.com/Anton2079/tog-rating",
-  "issue_tracker": "https://github.com/Anton2079/tog-rating/issues",
-  "codeowners": [
-    "@Anton2079"
-  ],
   "integration_type": "service",
   "iot_class": "calculated",
-  "config_flow": true,
+  "issue_tracker": "https://github.com/Anton2079/tog-rating/issues",
+  "requirements": [],
   "single_config_entry": true,
-  "requirements": []
+  "version": "0.1.2"
 }
+
